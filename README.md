@@ -1,4 +1,4 @@
-# 🎭 Playwright Test Automation Framework
+# 🎭 Playwright Test Automation Framework (CLAUDE SETUP)
 
 A general-purpose, production-ready Playwright framework for **End-to-End (E2E)**, **UI**, and **API** testing — built with TypeScript, structured around the Page Object Model, and designed to scale across teams.
 
